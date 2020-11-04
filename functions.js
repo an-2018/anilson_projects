@@ -1,0 +1,5 @@
+/*
+Functions
+- Mozilla Developer Network
+*/
+
